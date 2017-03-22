@@ -1,0 +1,6 @@
+Hanse.h	KEYWORD1
+Igralec	KEYWORD2
+rezultat	KEYWORD2
+izpis	KEYWORD2
+stanjeO KEYWORD2
+vnos	KEYWORD2
